@@ -1,4 +1,5 @@
-### Hi there 👋
+## Dave O'Brien
+Hey, I'm Dave. I am a Senior Frontend Engineer and currently in contract with MMT Digital.
 
 <!--
 **daveobriencouk/daveobriencouk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +14,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- Previous worked at, and what I have done
+- My current loves - React, Remix, Prisma, Tailwind etc... (linked, why)
 -->
