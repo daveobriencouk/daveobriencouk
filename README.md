@@ -1,19 +1,38 @@
-## Dave O'Brien
-Hey, I'm Dave. I am a Senior Frontend Engineer and currently in contract with MMT Digital.
+# Hello 👋. I’m Dave, and I’m a Frontend Engineer
 
-<!--
-**daveobriencouk/daveobriencouk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+With over 20 years of frontend engineering experience, I leverage technologies such as TypeScript, React, CSS, and HTML to craft engaging user experiences. My diverse career spans work with industry leaders such as Vodafone, Virgin Media, and Maersk, demonstrating my comprehensive skills in UI design, API integration, and varied aspects of backend development.
 
-Here are some ideas to get you started:
+### 🛠️ Current skills
+- **Languages:** TypeScript, JavaScript, HTML, CSS
+- **Frameworks:** React, Remix, Next.js, Tailwind CSS
+- **Libraries:** MobX, React Query, React Styleguidist, Zod, AJV, Lodash
+- **Backend:** Express, Node.js, Prisma
+- **Testing & Code Quality:** Jest, Cypress, React Testing Library, Vitest, SonarQube, Sentry, DataDog
+- **Tools:** Git, Webpack, Babel, ESLint
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- Previous worked at, and what I have done
-- My current loves - React, Remix, Prisma, Tailwind etc... (linked, why)
--->
+### 🏢 Work Experience
+- **Vodafone / MMT Digital**: Senior React Developer
+  - Developed and maintained enterprise-level products, increasing user engagement by 20%.
+  - Managed frontend and backend tasks in a cross-functional Agile team.
+  
+- **Maersk**: Senior UI Developer
+  - Led a challenging project focused on multi-branding and localisation.
+  - Established and enforced UI development standards, reducing bugs by 30%.
+
+- **Ego Creative**: Lead Developer
+  - Oversaw a wide range of web projects, contributing to a 25% increase in client retention.
+  - Mentored team members and established development processes.
+
+### 🌱 Current Learning
+- **Tech Focus**: Mastering Remix & Prisma
+- **Audible**: Clean Code by Martin Robert C
+- **Imprint**: Mindset by Carol Dweck
+- **Masterclass**: Critical Leadership Training by Jocko Willink
+
+### 🤝 Let's Connect
+- 🌐 [Website](http://daveobrien.co.uk/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/daveobriencouk)
+
+---
+
+⭐️ From [Dave O'Brien](https://github.com/daveobriencouk)
