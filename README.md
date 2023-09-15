@@ -32,7 +32,3 @@ With over 20 years of frontend engineering experience, I leverage technologies s
 ### 🤝 Let's Connect
 - 🌐 [Website](http://daveobrien.co.uk/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/daveobriencouk)
-
----
-
-⭐️ From [Dave O'Brien](https://github.com/daveobriencouk)
