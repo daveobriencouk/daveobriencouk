@@ -30,5 +30,5 @@ With over 20 years of frontend engineering experience, I leverage technologies s
 - **Masterclass**: Critical Leadership Training by Jocko Willink
 
 ### 🤝 Let's Connect
-- 🌐 [Website](http://daveobrien.co.uk/)
+- 🔗 [Website](http://daveobrien.co.uk/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/daveobriencouk)
